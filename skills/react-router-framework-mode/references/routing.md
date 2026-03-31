@@ -8,7 +8,7 @@ tags: [routing, routes.ts, nested-routes, layout, dynamic-segments, params]
 
 For file conventions (`root.tsx`, `routes.ts`, etc.), see [special-files.md](./special-files.md).
 
-If using `@react-router/fs-routes` see https://reactrouter.com/how-to/file-route-conventions
+If using `@react-router/fs-routes` see [routing.md](./routing.md).
 
 ## Route Configuration
 
